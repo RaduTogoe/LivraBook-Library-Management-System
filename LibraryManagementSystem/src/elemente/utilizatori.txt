@@ -1,0 +1,2 @@
+Client;John;1234;Smith;John;08/08/1988;johnsmith@gmail.com;0761234123;London;50;
+Admin;MIKE;MIKE;04/04/2003;radu@email.com;1234567890;Adresa;WhovianCoder;1234;
